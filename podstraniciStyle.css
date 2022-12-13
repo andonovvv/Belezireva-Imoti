@@ -1,0 +1,39 @@
+﻿h1 {
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 22px;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+img {
+    border 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 450px;
+    height: 450px;
+    float: left;
+    margin: 80px;
+}
+body {
+    background-color: #D1EEE1;
+}
+a{
+    display: flex;
+    float: right;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    opacity: 0.5;
+}

@@ -1,0 +1,29 @@
+﻿.naiOtgore{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    loading="lazy" width="42" height="42" />
+}
+ul {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+}
+li {
+    margin: 5px;
+    display: inline-block;
+    padding: 15px 30px;
+}
+a {
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
+body {
+    background: linear-gradient(#FAF7F2,#D7F9EE);
+}
